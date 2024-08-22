@@ -1,5 +1,5 @@
 IbrahimontopBot
-🖱️ clicker for [https://t.me/ibrahim ontop_coin_bot](https://t.me/ibrahim ontop_coin_bot?start=r_+2348068662401)
+🖱️ clicker for [https://t.me/ibrahim ontop_coin_bot](https://t.me/ibrahim ontop_coin_bot?start=r_)
 
 ## Recommendation before use
 # 🔥🔥 Use PYTHON 3.10 🔥🔥
